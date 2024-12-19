@@ -77,4 +77,5 @@ FROM employees
 -- WHERE hourly_pay >= 15;
 -- WHERE hire_date <= "2024-12-13";
 -- WHERE hire_date IS NULL;
+-- WHERE hire_date IS NOT NULL;
 */
